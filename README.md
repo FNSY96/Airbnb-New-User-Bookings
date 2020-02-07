@@ -1,4 +1,4 @@
-# Eventum-Junior-Data-Scientst-Task
+# Eventum-Junior-Data-Scientst-Task (Airbnb New User Bookings)
 
 ## Task Description
 An [Airbnb data scientist recruitment challenge](https://www.kaggle.com/c/airbnb-recruiting-new-user-bookings) used as a task by Eventum IT Solutions for Junior Data Scientest recruitment.
